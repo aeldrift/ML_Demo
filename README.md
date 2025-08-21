@@ -24,9 +24,8 @@ Apply AI concepts to real-world scenarios using Oracle Cloud.
 | **Hands-on Labs**      | Real-world demos using OCI AI services   |
 | **Modular Learning**   | Videos, quizzes, and practical exercises |
 | **Certification Prep** | Practice tests and exam tips included    |
-
-
-
+<br>
+<br>
 **Directory Structure**
 oci_ai_foundations/
 ├── README.md               # Course README (this file)
@@ -49,6 +48,7 @@ oci_ai_foundations/
     ├── exam_guide.pdf
     └── practice_questions.md
 
+<br> <br>
 **Course Structure**
 
 **AI Basics**
