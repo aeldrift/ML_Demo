@@ -28,29 +28,6 @@ Apply AI concepts to real-world scenarios using Oracle Cloud.
 
 ## Directory Structure
 <br>
-```plaintext
-oci_ai_foundations/
-├── README.md               # Course README (this file)
-├── modules/                # Course Modules
-│   ├── module1_ai_basics/   # AI, ML, DL fundamentals
-│   ├── module2_genai/       # Generative AI & LLMs
-│   ├── module3_oci_stack/   # OCI AI Infrastructure & AI Services
-│   ├── module4_usecases/    # Practical demos and examples
-│   ├── module5_exam_prep/   # Certification preparation
-│   └── resources/           # PDFs, slide decks, reference materials
-├── quizzes/                 # Skill checks and assignments
-│   ├── module1_quiz.json
-│   ├── module2_quiz.json
-│   └── practice_exam.json
-├── labs/                    # Hands-on labs with OCI AI services
-│   ├── oci_ai_vision_lab.md
-│   ├── oci_language_lab.md
-│   └── genai_lab.md
-└── certification/           # Certification details & guide
-    ├── exam_guide.pdf
-    └── practice_questions.md
-```
-
 
 ```plaintext
 oci_ai_foundations/
@@ -74,8 +51,7 @@ oci_ai_foundations/
     ├── exam_guide.pdf
     └── practice_questions.md
 ```
-
-<br> <br>
+<br> 
 ## Course Structure
 <br>
 
