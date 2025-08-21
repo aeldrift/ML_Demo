@@ -15,6 +15,17 @@ Gain hands-on experience with Oracle AI services.
 Learn about OCI AI infrastructure and APIs.
 Apply AI concepts to real-world scenarios using Oracle Cloud.
 
+**Key Features**
+
+| Feature                | Details                                  |
+| ---------------------- | ---------------------------------------- |
+| **Beginner Friendly**  | No coding or math background required    |
+| **Self-Paced**         | Learn anytime, anywhere                  |
+| **Hands-on Labs**      | Real-world demos using OCI AI services   |
+| **Modular Learning**   | Videos, quizzes, and practical exercises |
+| **Certification Prep** | Practice tests and exam tips included    |
+
+
 **Directory Structure**
 oci_ai_foundations/
 ├── README.md               # Course README (this file)
@@ -70,13 +81,5 @@ Oracle Cloud Account: Free-tier or paid Oracle Cloud Infrastructure account
 Browser: Use a modern browser for the best experience (Google Chrome or Mozilla Firefox recommended
 Internet Access: Stable connection for videos, labs, and quizzes
 
-**Key Features**
 
-| Feature                | Details                                  |
-| ---------------------- | ---------------------------------------- |
-| **Beginner Friendly**  | No coding or math background required    |
-| **Self-Paced**         | Learn anytime, anywhere                  |
-| **Hands-on Labs**      | Real-world demos using OCI AI services   |
-| **Modular Learning**   | Videos, quizzes, and practical exercises |
-| **Certification Prep** | Practice tests and exam tips included    |
 
