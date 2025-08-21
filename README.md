@@ -24,8 +24,8 @@ Apply AI concepts to real-world scenarios using Oracle Cloud.
 | **Hands-on Labs**      | Real-world demos using OCI AI services   |
 | **Modular Learning**   | Videos, quizzes, and practical exercises |
 | **Certification Prep** | Practice tests and exam tips included    |
-<br>
-<br>
+<br> <br>
+
 **Directory Structure**
 <br>
 oci_ai_foundations/
@@ -76,8 +76,8 @@ Practical exercises on OCI AI services
 **Certification Preparation**
 Practice questions
 Exam tips and resources
-<br>
-**Setup and Access**
+<br> <br>
+**Setup and Access** <br>
 **Prerequisites**
 Oracle Cloud Account: Free-tier or paid Oracle Cloud Infrastructure account
 Browser: Use a modern browser for the best experience (Google Chrome or Mozilla Firefox recommended
