@@ -52,33 +52,34 @@ oci_ai_foundations/
 <br> <br>
 ## Course Structure
 <br>
-**AI Basics**
+
+### AI Basics
 Introduction to AI, ML, DL
 Real-world applications of AI
 Hands-on demos
 
-**Generative AI & LLMs**
+### Generative AI & LLMs
 Large Language Models (LLMs)
 Transformers & Self-Attention
 Prompt Engineering fundamentals
 
-**OCI AI Infrastructure**
+### OCI AI Infrastructure
 GPU Clusters, Superclusters
 Data Science Service, AI APIs
 
-**OCI AI Services**
+### OCI AI Services
 Vision, Language, Speech, Document Understanding
 Anomaly Detection
 
-**Hands-on Labs**
+### Hands-on Labs**
 Practical exercises on OCI AI services
 
-**Certification Preparation**
+### Certification Preparation**
 Practice questions
 Exam tips and resources
 <br> <br>
-**Setup and Access** <br>
-**Prerequisites** <br>
+## Setup and Access** <br>
+### Prerequisites** <br>
 Oracle Cloud Account: Free-tier or paid Oracle Cloud Infrastructure account
 Browser: Use a modern browser for the best experience (Google Chrome or Mozilla Firefox recommended
 Internet Access: Stable connection for videos, labs, and quizzes
