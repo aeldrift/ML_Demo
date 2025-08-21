@@ -27,6 +27,7 @@ Apply AI concepts to real-world scenarios using Oracle Cloud.
 <br>
 <br>
 **Directory Structure**
+<br>
 oci_ai_foundations/
 ├── README.md               # Course README (this file)
 ├── modules/                # Course Modules
@@ -75,7 +76,7 @@ Practical exercises on OCI AI services
 **Certification Preparation**
 Practice questions
 Exam tips and resources
-
+<br>
 **Setup and Access**
 **Prerequisites**
 Oracle Cloud Account: Free-tier or paid Oracle Cloud Infrastructure account
