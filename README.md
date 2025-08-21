@@ -36,7 +36,7 @@ oci_ai_foundations/
 │   ├── module3_oci_stack/   # OCI AI Infrastructure & AI Services
 │   ├── module4_usecases/    # Practical demos and examples
 │   ├── module5_exam_prep/   # Certification preparation
-│   └── resources/           # PDFs, slide decks, and reference material
+│   └── resources/           # PDFs, slide decks, reference materials
 ├── quizzes/                 # Skill checks and assignments
 │   ├── module1_quiz.json
 │   ├── module2_quiz.json
@@ -48,6 +48,7 @@ oci_ai_foundations/
 └── certification/           # Certification details & guide
     ├── exam_guide.pdf
     └── practice_questions.md
+
 
 <br> <br>
 ## Course Structure
