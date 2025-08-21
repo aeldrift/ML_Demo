@@ -26,6 +26,7 @@ Apply AI concepts to real-world scenarios using Oracle Cloud.
 | **Certification Prep** | Practice tests and exam tips included    |
 
 
+
 **Directory Structure**
 oci_ai_foundations/
 ├── README.md               # Course README (this file)
