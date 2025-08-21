@@ -1,7 +1,7 @@
 # ML_Demo
 Intro to AI, ML, and generative AI on Oracle Cloud Infrastructure.
 
-##**OCI AI Foundations Course
+##OCI AI Foundations Course
 Project Overview**
 
 The Oracle Cloud Infrastructure (OCI) AI Foundations course is designed to give learners a solid introduction to Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Generative AI concepts using Oracle Cloud Infrastructure services.
