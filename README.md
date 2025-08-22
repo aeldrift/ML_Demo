@@ -82,8 +82,9 @@ Exam tips and resources
 <br> <br>
 ## Setup and Access <br>
 ### Prerequisites   <br>
-#### Oracle Cloud Account: <br>
-Free-tier or paid Oracle Cloud Infrastructure account
+**Oracle Cloud Account:** <br>
+Free-tier or paid Oracle Cloud Infrastructure account <br>
+
 Browser: Use a modern browser for the best experience (Google Chrome or Mozilla Firefox recommended
 Internet Access: Stable connection for videos, labs, and quizzes
 
