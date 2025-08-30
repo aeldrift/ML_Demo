@@ -80,6 +80,9 @@ Practical exercises on OCI AI services
 Practice questions
 Exam tips and resources
 <br> <br>
+
+## Modules Overview
+
 ## Setup and Access <br>
 ### Prerequisites   <br>
 **Oracle Cloud Account:** <br>
