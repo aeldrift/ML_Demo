@@ -83,6 +83,15 @@ Exam tips and resources
 
 ## Modules Overview
 
+Here is a structured view of the course modules with learning content and hands-on labs:
+
+1. **AI Basics**  
+    Introduction to AI, ML, DL  
+    Real-world applications  
+    Hands-on demos  
+
+
+
 ## Setup and Access <br>
 ### Prerequisites   <br>
 **Oracle Cloud Account:** <br>
